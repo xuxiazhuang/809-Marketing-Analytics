@@ -27,10 +27,10 @@ lec4 Segmentation
 * cluster analysis 
 
 lec5 Conjoint Analysis
-* Choose Attributes
-* Choose relevant levels of attributes
-* Create product files 
-* Poll consumers
-* Generate Regression report
-* Interpreting partworths,plotting partworth
-* Predict Choice
+* step1:Choose Attributes
+* step2:Choose relevant levels of attributes
+* step3:Create product files 
+* step4:Poll consumers
+* step5:Generate Regression report
+* step6:Interpreting partworths,plotting partworth
+* step7:Predict Choice
