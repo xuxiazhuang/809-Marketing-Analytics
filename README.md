@@ -26,3 +26,11 @@ lec4 Segmentation
 * factor analysis
 * cluster analysis 
 
+lec5 Conjoint Analysis
+* Choose Attributes
+* Choose relevant levels of attributes
+* Create product files 
+* Poll consumers
+* Generate Regression report
+* Interpreting partworths,plotting partworth
+* Predict Choice
