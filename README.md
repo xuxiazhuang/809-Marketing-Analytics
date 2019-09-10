@@ -34,3 +34,14 @@ lec5 Conjoint Analysis
 * step5:Generate Regression report
 * step6:Interpreting partworths,plotting partworth
 * step7:Predict Choice
+
+lec6 Discriminant Analysis
+* Popular technique in doing Segmentation when we have available data
+* Steganography – It is the art and science of writing messages in such a way  that no one apart from sender and intended    recipient, suspects the existence of message 
+* Classification – Predict class membership
+* Predictor Importance- Finding relative importance of factors that discriminate between two classes
+
+lec7 Web Analytics
+
+
+
