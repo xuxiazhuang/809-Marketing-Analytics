@@ -42,6 +42,10 @@ lec6 Discriminant Analysis
 * Predictor Importance- Finding relative importance of factors that discriminate between two classes
 
 lec7 Web Analytics
+* search engine optimization 
+* Web analytics : The measurement, collection, analysis and reporting of internet data for the purpose of understanding and optimizing we usage
+* google analytics
+
 
 
 
